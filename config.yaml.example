@@ -1,0 +1,9 @@
+username:
+    <username>
+password:
+    <password>
+subreddit:
+    <which subreddit they are a mod of>
+disclaimer:
+    "I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose?to=%%2Fr%%2F{{subreddit}}) if you have any questions or concerns.*"
+
